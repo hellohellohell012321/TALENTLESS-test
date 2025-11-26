@@ -351,7 +351,7 @@ changeLanguageButton.MouseButton1Click:Connect(
         frame.Size = UDim2.new(0, 475, 0, 272)
         translator:requestLang(frame, "change")
         ScreenGui:Destroy()
-        loadstring(game:HttpGet("https://cdn.jsdelivr.net/gh/hellohellohell012321/TALENTLESS@main/MAIN.lua"))() -- reload itself to apply language. replace with keysystem link
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/hellohellohell012321/TALENTLESS-test/refs/heads/main/keysystem.lua"))() -- reload itself to apply language. replace with keysystem link
     end
 )
 
