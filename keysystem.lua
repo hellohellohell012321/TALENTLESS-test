@@ -2,7 +2,7 @@
 -- main.lua -> if _G.keydone then do the rest of the script. else load keysystem.lua
 -- keysystem.lua -> when key done, main.lua will stop yielding and _G.keydone = true
 
-local translator = loadstring(game:HttpGet("https://pastefy.app/Sdwr6VSZ/raw", true))() -- replace with real translator
+local translator = loadstring(game:HttpGet("https://raw.githubusercontent.com/hellohellohell012321/TALENTLESS-test/refs/heads/main/translator.lua", true))() -- replace with real translator
 
 local function translateText(text) -- this function will also be called from the other sub scripts
     return translator:translateText(text)
