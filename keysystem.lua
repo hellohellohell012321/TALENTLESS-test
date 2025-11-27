@@ -367,7 +367,7 @@ closeButton.MouseButton1Click:Connect(
 infoButton.MouseButton1Click:Connect(
     function()
         loadstring(
-            game:HttpGet("https://cdn.jsdelivr.net/gh/hellohellohell012321/TALENTLESS@main/info.lua", true)
+            game:HttpGet("https://cdn.jsdelivr.net/gh/hellohellohell012321/TALENTLESS/info.lua", true)
         )()
     end
 )
