@@ -955,7 +955,7 @@ local translations = {
     
     ["keytitle"] = {
         ["en"] = "TALENTLESS requires a key to use. Follow the instructions below.",
-        ["pt-br"] = "o TALENTLESS requer uma chave para usar. siga as instruções abaixo.",
+        ["pt-BR"] = "o TALENTLESS requer uma chave para usar. siga as instruções abaixo.",
         ["es"] = "TALENTLESS requiere una clave para usarse. sigue las instrucciones de abajo.",
         ["ru"] = "для использования TALENTLESS требуется ключ. следуйте инструкциям ниже.",
         ["zh-CN"] = "使用 TALENTLESS 需要密钥。请按照以下说明操作。",
@@ -972,7 +972,7 @@ local translations = {
 
     ["keyinsert"] = {
         ["en"] = "Paste key here (example: 0491)",
-        ["pt-br"] = "cole a chave aqui (exemplo: 0491)",
+        ["pt-BR"] = "cole a chave aqui (exemplo: 0491)",
         ["es"] = "pega la clave aquí (ejemplo: 0491)",
         ["ru"] = "вставьте ключ здесь (пример: 0491)",
         ["zh-CN"] = "在此粘贴密钥（例如：0491）",
@@ -989,7 +989,7 @@ local translations = {
 
     ["step1"] = {
         ["en"] = "Step 1:",
-        ["pt-br"] = "Passo 1:",
+        ["pt-BR"] = "Passo 1:",
         ["es"] = "Paso 1:",
         ["ru"] = "Шаг 1:",
         ["zh-CN"] = "步骤 1：",
@@ -1006,7 +1006,7 @@ local translations = {
     
     ["step2"] = {
         ["en"] = "Step 2:",
-        ["pt-br"] = "Passo 2:",
+        ["pt-BR"] = "Passo 2:",
         ["es"] = "Paso 2:",
         ["ru"] = "Шаг 2:",
         ["zh-CN"] = "步骤 2：",
@@ -1023,7 +1023,7 @@ local translations = {
     
     ["step3"] = {
         ["en"] = "Step 3:",
-        ["pt-br"] = "Passo 3:",
+        ["pt-BR"] = "Passo 3:",
         ["es"] = "Paso 3:",
         ["ru"] = "Шаг 3:",
         ["zh-CN"] = "步骤 3：",
@@ -1040,7 +1040,7 @@ local translations = {
 
     ["copykeysite"] = {
         ["en"] = "Click the button to copy the link for the key website.",
-        ["pt-br"] = "Clique no botão para copiar o link do site da chave.",
+        ["pt-BR"] = "Clique no botão para copiar o link do site da chave.",
         ["es"] = "Haz clic en el botón para copiar el enlace del sitio de la clave.",
         ["ru"] = "Нажмите кнопку, чтобы скопировать ссылку на сайт ключа.",
         ["zh-CN"] = "点击按钮以复制密钥网站的链接。",
@@ -1057,7 +1057,7 @@ local translations = {
 
     ["completetaskforkey"] = {
         ["en"] = "Complete the task on the website to get the key.",
-        ["pt-br"] = "Conclua a tarefa no site para obter a chave.",
+        ["pt-BR"] = "Conclua a tarefa no site para obter a chave.",
         ["es"] = "Completa la tarea en el sitio web para obtener la clave.",
         ["ru"] = "Выполните задание на сайте, чтобы получить ключ.",
         ["zh-CN"] = "在网站上完成任务即可获得密钥。",
@@ -1074,7 +1074,7 @@ local translations = {
 
     ["pastekeyhere"] = {
         ["en"] = "Paste the key here →",
-        ["pt-br"] = "Cole a chave aqui →",
+        ["pt-BR"] = "Cole a chave aqui →",
         ["es"] = "Pega la clave aquí →",
         ["ru"] = "Вставьте ключ сюда →",
         ["zh-CN"] = "在此粘贴密钥 →",
@@ -1091,7 +1091,7 @@ local translations = {
 
     ["submitkey"] = {
         ["en"] = "Submit Key!",
-        ["pt-br"] = "Enviar chave!",
+        ["pt-BR"] = "Enviar chave!",
         ["es"] = "Enviar clave!",
         ["ru"] = "Отправить ключ!",
         ["zh-CN"] = "提交密钥！",
@@ -1108,7 +1108,7 @@ local translations = {
     
     ["keylinkcopied"] = {
         ["en"] = "The link to the key has been copied to your clipboard.",
-        ["pt-br"] = "O link da chave foi copiado para sua área de transferência.",
+        ["pt-BR"] = "O link da chave foi copiado para sua área de transferência.",
         ["es"] = "El enlace de la clave se copió en tu portapapeles.",
         ["ru"] = "Ссылка на ключ скопирована в ваш буфер обмена.",
         ["zh-CN"] = "密钥链接已复制到您的剪贴板。",
@@ -1125,7 +1125,7 @@ local translations = {
 
     ["keyempty"] = {
         ["en"] = "The key input is empty. Read the instructions to get the key.",
-        ["pt-br"] = "O campo da chave está vazio. Leia as instruções para obter a chave.",
+        ["pt-BR"] = "O campo da chave está vazio. Leia as instruções para obter a chave.",
         ["es"] = "El campo de la clave está vacío. Lee las instrucciones para obtener la clave.",
         ["ru"] = "Поле ввода ключа пусто. Прочтите инструкции, чтобы получить ключ.",
         ["zh-CN"] = "密钥输入为空。请阅读说明以获取密钥。",
@@ -1142,7 +1142,7 @@ local translations = {
     
     ["keysuccess"] = {
         ["en"] = "Success.",
-        ["pt-br"] = "Sucesso.",
+        ["pt-BR"] = "Sucesso.",
         ["es"] = "Éxito.",
         ["ru"] = "Успешно.",
         ["zh-CN"] = "成功。",
@@ -1159,7 +1159,7 @@ local translations = {
       
     ["keyinvalid"] = {
         ["en"] = "Your key is invalid. If you need help, join the discord server by clicking the question mark button.",
-        ["pt-br"] = "Sua chave é inválida. Se precisar de ajuda, entre no servidor do Discord clicando no botão de interrogação.",
+        ["pt-BR"] = "Sua chave é inválida. Se precisar de ajuda, entre no servidor do Discord clicando no botão de interrogação.",
         ["es"] = "Tu clave es inválida. Si necesitas ayuda, únete al servidor de Discord haciendo clic en el botón de interrogación.",
         ["ru"] = "Ваш ключ недействителен. Если нужна помощь, присоединяйтесь к серверу Discord, нажав на кнопку с вопросительным знаком.",
         ["zh-CN"] = "您的密钥无效。如需帮助，请点击问号按钮加入 Discord 服务器。",
